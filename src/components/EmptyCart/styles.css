@@ -1,0 +1,20 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@100;300;400;500;600;700;800;900&display=swap");
+
+.text-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  height: 100%;
+}
+
+.text {
+  font-weight: 700;
+  font-size: 1.125rem;
+  color: #333333;
+}
+
+.subtext {
+  font-weight: 400;
+  font-size: 0.875rem;
+  color: #828282;
+}

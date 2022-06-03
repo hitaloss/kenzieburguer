@@ -1,0 +1,58 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@100;300;400;500;600;700;800;900&display=swap");
+
+.cart-card {
+  font-family: "Inter", sans-serif;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 4rem;
+  background-color: #e0e0e0;
+  border-radius: 8px;
+}
+
+.cart-card > img {
+  width: 4rem;
+}
+
+.texts {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  gap: 0.5rem;
+}
+
+.texts > .texts-name {
+  color: #333333;
+  font-weight: 700;
+  font-size: 1.125rem;
+}
+
+.texts > .texts-category {
+  color: #828282;
+  font-weight: 400;
+  font-size: 0.75rem;
+}
+
+.buttons {
+  display: flex;
+  margin-left: auto;
+  align-items: flex-start;
+}
+
+.buttons > button {
+  display: flex;
+  margin-left: auto;
+  align-items: flex-start;
+  background-color: transparent;
+  font-size: 0.75rem;
+  color: #bdbdbd;
+  border: none;
+}
+
+.buttons > button:hover {
+  text-decoration: underline;
+}
+
+@media (min-width: 1024px) {
+}

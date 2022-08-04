@@ -24,7 +24,7 @@ function Header({ products, setFilteredProducts, setInfo }) {
   return (
     <header>
       <span>
-        Burguer<strong> Kenzie</strong>
+        Kenzie<strong> Burger</strong>
       </span>
       <div>
         <input

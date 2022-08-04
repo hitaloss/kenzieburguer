@@ -42,6 +42,7 @@ function ProductsList({
           newestOnTop={false}
           closeOnClick
           rtl={false}
+          limit={2}
           pauseOnFocusLoss
           draggable
           pauseOnHover

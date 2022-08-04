@@ -51,4 +51,8 @@
   .container-all {
     margin: 0;
   }
+
+  .search-result {
+    margin: 1rem 2rem;
+  }
 }

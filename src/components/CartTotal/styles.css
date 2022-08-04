@@ -33,6 +33,7 @@
   border: none;
   padding: 1rem 1.5rem;
   border-radius: 10px;
+  transition: 300ms ease-in-out;
 }
 
 .cart-total > button:focus {

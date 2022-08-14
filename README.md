@@ -2,7 +2,7 @@
 
 ## Descrição
 
-Esse projeto feito em react é site que simula uma lanchonete online, onde é\
+Esse projeto feito em react é um site que simula uma lanchonete online, onde é\
 possível ver a vitrine de lanches e bebidas, inserir no carrinho, pesquisar\
 pelo produto e mais!
 

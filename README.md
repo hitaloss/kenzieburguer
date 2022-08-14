@@ -15,6 +15,6 @@ Vá em frente! Experimente utilizar o site como um consumidor e explore suas fun
 ### Bibliotecas usadas:
 
 ● Axios\
-● React Toastify\
+● React Toastify
 
 Vale a pena analisar o pouco uso das bibliotecas, para firmar o conhecimento das funcionalidades.

@@ -18,3 +18,22 @@ Vá em frente! Experimente utilizar o site como um consumidor e explore suas fun
 ● React Toastify
 
 Vale a pena analisar o pouco uso das bibliotecas, para firmar o conhecimento das funcionalidades.
+
+#### Execute o comando para instalações de dependências da API:
+
+```
+yarn
+
+ou
+
+npm install
+```
+#### Logo após, basta executar o comando para rodar a aplicação
+
+```
+yarn start
+
+ou
+
+npm start
+```
